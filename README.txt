@@ -1,4 +1,4 @@
-PROJECT 5: SECURE ENTERPRISE NETWORK
+PROJECT: SECURE ENTERPRISE NETWORK
 Cisco Packet Tracer Project Documentation
 Student Name: Nathan R. Watalah
 Program: Information Technology
