@@ -539,7 +539,7 @@ Capture screenshots of your actual work, including:
 
 Save the Packet Tracer file as:
 
-`Project5-Secure-Enterprise-Network.pkt`
+Secure-Enterprise-Network.pkt`
 
 **Project status:** Complete after you configure the devices, verify the permitted and blocked traffic, save the Packet Tracer file, and capture your evidence.
 
